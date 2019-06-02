@@ -4,7 +4,7 @@ const client2 = new Discord.Client();
 
 client.on('ready', () => {
    console.log(`----------------`);
-   console.log(`Credit Farmm - Script By : Kahrbaa `);
+   console.log(`Credit Farmm - Script By : WESO `);
    console.log(`----------------`);
    console.log(`Loadinng`);
    console.log(`Loadinng.`);
@@ -58,7 +58,11 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 " ]
+        message.channel.send(`جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:" ]
  **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -73,8 +77,12 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 Credit Spam , Frame , Credit By WESO , Farm Credit By WESO, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج [ " 37802 " ]
- **[ " ${x} " ]`)
+        message.channel.send(`** جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:
+جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3: جري التهكير By WESO :frog: :dancer::skin-tone-3:" ]
+ **[ " ${x} **" ]`)
           .then(m => {
             count++;
           })
@@ -88,3 +96,6 @@ if (message.content === '!spam') {
 
 client.login(process.env.TOKEN);// لا تغير فيها شيء
 client2.login(process.env.TOKEN2);// لا تغير فيها شيء
+client2.login(process.env.TOKEN3);// لا تغير فيها شيء
+client2.login(process.env.TOKEN4);// لا تغير فيها شيء
+client2.login(process.env.TOKEN5);// لا تغير فيها شيء
